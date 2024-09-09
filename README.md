@@ -15,7 +15,7 @@ No other libraries are required
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I build the recommendation algorithms using use on real data from the IBM Watson Studio platform <br>
+In the IBM Watson Studio, there is a large collaborative community ecosystem of articles, datasets, notebooks, and other A.I. and ML. assets. Users of the system interact with all of this. Within this scope, we created this recommendation system project to enhance the user experience and connect them with assets. This personalizes the experience for each user.<br>
 
 I applied following recommendation techniques:
 1. Rank base recommendation
